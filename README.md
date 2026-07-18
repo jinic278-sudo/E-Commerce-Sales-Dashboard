@@ -35,8 +35,11 @@ This project is an interactive E-Commerce Sales Dashboard built in Microsoft Exc
 
 ## Files Included
 - E-Commerce_Sales_Dashboard.xlsx
-- Dashboard_Screenshot.png
+- Dashboard.jpg
 
+## Dashboard Preview
+
+![E-Commerce Sales Dashboard](Dashboard.jpg)
 
 ## Author
 Jini Joy Chellan
